@@ -8,3 +8,4 @@ Do you like watching TV?
 What is you name ?
 What is the time now?
 What are you doning now ?
+Can you speak english ?
